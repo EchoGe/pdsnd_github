@@ -1,16 +1,11 @@
 
-### Date created
-2021.6.20
 
-### Project Title
-Bike sharing demand project
+## Project 
 
-### Description
-This is a nano degree project on udacity researching the bike sharing demand
+This project consisted in using Git and GitHub with a simulated workflow to refactor bikeshare.
 
-### Files used
-using the data files provided.
+### Project Submission
 
-### Credits
-Kaggle
+The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
 
+[Check My Project Submission](https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree/blob/master/Project-3/Git%20Commands%20Documentation.pdf).
